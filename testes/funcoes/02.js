@@ -1,3 +1,5 @@
+// callback
+
 function calcular(a, b, callback) {
     const resultado = a + b;
     callback(resultado);

@@ -1,3 +1,5 @@
+// callback
+
 function smogon() {
     console.log("smogon")
 }

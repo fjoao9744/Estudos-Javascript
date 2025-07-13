@@ -1,3 +1,5 @@
+// instanceof
+
 class Pessoa {
     Pessoa(nome, idade) {
         this.nome = nome;
